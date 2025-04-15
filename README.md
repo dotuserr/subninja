@@ -1,8 +1,9 @@
 # SubNinja 🥷
 
 <div align="center">
-  <img src="![subninja](https://github.com/user-attachments/assets/84f6c5cc-cb42-4e81-95c3-55c112e12414)"
+  <img src="https://github.com/user-attachments/assets/b224df40-7ffe-4150-b739-60923995276e" alt="SubNinja Logo" width="200">
 </div>
+
 
 [![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
