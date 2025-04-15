@@ -61,7 +61,7 @@ Compatible with all modern browsers:
 
 ## 👤 Contact
 
-Connect with me on [LinkedIn](your-linkedin-url)
+Connect with me on [LinkedIn](www.linkedin.com/in/amine-el-baraka-0b8973290)
 
 ## 📝 License
 
