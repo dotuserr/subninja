@@ -45,18 +45,17 @@ Compatible with all modern browsers:
 
 ## 📱 Using SubNinja
 
-[Add specific instructions on how to use your web application, for example:]
 
-1. **Creating an Account**
-   - Visit the website
-   - Click on "Sign Up"
-   - Fill in your details
-   - Verify your email
+   **Main Features**
+   - Feature 1: Subnet Calculator
+   - Feature 2: Reverse Subnet
+   - Feature 3: Learn to Subnet
 
-2. **Main Features**
-   - Feature 1: Description of how to use it
-   - Feature 2: Description of how to use it
-   - Feature 3: Description of how to use it
+![Caclulate](https://github.com/user-attachments/assets/07ddf998-14ba-44a4-bd63-75b7fa0114ad)
+
+![Reverse](https://github.com/user-attachments/assets/fd84eb2d-700b-4e0a-85f0-68fe219e1874)
+
+![Learn](https://github.com/user-attachments/assets/6059354a-17c0-463f-b776-34db3a769435)
 
 
 
