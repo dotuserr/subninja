@@ -38,7 +38,7 @@ SubNinja is a powerful and elegant subnet calculator that helps network administ
 
 ## 🌐 Getting Started
 
-Visit [your-website-url] to start using SubNinja. No signup required - just enter your IP address and start calculating!
+Visit [https://subninja.vercel.app/] to start using SubNinja. No signup required - just enter your IP address and start calculating!
 
 Compatible with all modern browsers:
 - Google Chrome
