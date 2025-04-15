@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="![subninja](https://github.com/user-attachments/assets/84f6c5cc-cb42-4e81-95c3-55c112e12414)"
-alt="SubNinja Logo" width="200">
 </div>
 
 [![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
