@@ -1,46 +1,69 @@
-# Getting Started with Create React App
+# SubNinja 🥷
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <img src="public/SubNinja.png" alt="SubNinja Logo" width="200">
+</div>
 
-## Available Scripts
+[![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
+[![Material-UI](https://img.shields.io/badge/Material--UI-7.0.2-blue.svg)](https://mui.com/)
 
-In the project directory, you can run:
+## 📋 Description
 
-### `npm start`
+SubNinja is a powerful and elegant subnet calculator that helps network administrators and IT professionals calculate subnet information quickly and efficiently. With its modern dark-themed interface, it provides instant subnet calculations and network range information.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ✨ Features
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- 🧮 Subnet Calculator:
+  - Network address calculation
+  - Broadcast address determination
+  - First and last usable host addresses
+  - Total number of usable hosts
+  - Next network address
+  - CIDR notation support
 
-### `npm test`
+- 🔄 Reverse Subnet Calculator:
+  - Calculate required subnet mask from desired number of hosts
+  - Instant CIDR notation results
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🎨 User Experience:
+  - Modern dark theme interface
+  - One-click copy for all results
+  - Real-time calculations 
 
-### `npm run build`
+## 🌐 Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Visit [your-website-url] to start using SubNinja. No signup required - just enter your IP address and start calculating!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Compatible with all modern browsers:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+- Safari
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📱 Using SubNinja
 
-### `npm run eject`
+[Add specific instructions on how to use your web application, for example:]
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. **Creating an Account**
+   - Visit the website
+   - Click on "Sign Up"
+   - Fill in your details
+   - Verify your email
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. **Main Features**
+   - Feature 1: Description of how to use it
+   - Feature 2: Description of how to use it
+   - Feature 3: Description of how to use it
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## 👤 Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Connect with me on [LinkedIn](your-linkedin-url)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📝 License
+
+This project is under private license. All rights reserved.
+
+
