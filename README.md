@@ -1,8 +1,9 @@
 # SubNinja 🥷
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b224df40-7ffe-4150-b739-60923995276e" alt="SubNinja Logo" width="200">
+  <img src="https://github.com/user-attachments/assets/128bcd89-d004-442c-a3ed-4b0ce88105f2" alt="SubNinja Logo" width="200">
 </div>
+
 
 
 [![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
