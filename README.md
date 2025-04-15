@@ -1,7 +1,7 @@
 # SubNinja 🥷
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/128bcd89-d004-442c-a3ed-4b0ce88105f2" alt="SubNinja Logo" width="200">
+  <img src="https://github.com/user-attachments/assets/128bcd89-d004-442c-a3ed-4b0ce88105f2" alt="SubNinja Logo" width="400">
 </div>
 
 
