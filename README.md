@@ -2,13 +2,12 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/128bcd89-d004-442c-a3ed-4b0ce88105f2" alt="SubNinja Logo" width="400">
+  [![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
+  [![Material-UI](https://img.shields.io/badge/Material--UI-7.0.2-blue.svg)](https://mui.com/)
 </div>
 
 
-
-[![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
-[![Material-UI](https://img.shields.io/badge/Material--UI-7.0.2-blue.svg)](https://mui.com/)
 
 ## 📋 Description
 
